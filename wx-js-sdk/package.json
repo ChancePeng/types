@@ -1,0 +1,17 @@
+{
+  "name": "@types/wx-js-sdk",
+  "version": "0.0.1",
+  "description": "wx-jssdk-types",
+  "typings": "index.d.ts",
+  "main": "index.js",
+  "scripts": {},
+  "repository": "https://github.com/ChancePeng/amap-jsapi-types",
+  "author": "change",
+  "license": "MIT",
+  "typeScriptVersion": "^5.0.4",
+  "nonNpm": true,
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ]
+}

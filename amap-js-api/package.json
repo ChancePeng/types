@@ -1,0 +1,20 @@
+{
+  "name": "@types/amap-js-api",
+  "version": "0.0.1",
+  "description": "amap-jsapi-types 是高德开放平台官网提供的地图 JSAPI2.0 的 Typescript 声明文件",
+  "typings": "index.d.ts",
+  "main": "index.js",
+  "files": [
+    "index.d.ts",
+    "plugins"
+  ],
+  "scripts": {
+    "test": "tsc test.ts --noEmit"
+  },
+  "repository": "https://github.com/AMap-Web/amap-jsapi-types",
+  "author": "donglai.ydl",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.7.3"
+  }
+}
